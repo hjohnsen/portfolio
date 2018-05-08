@@ -1,11 +1,11 @@
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 650px) {
   /* For small screens, projects are one per line */
   .project {
     width: 100%;
   }
 }
 
-@media screen and (min-width: 501px) {
+@media screen and (min-width: 651px) {
   /* For medium screens, put a margin and projects 2 per line */
   body {
     margin: 3em;
@@ -24,7 +24,7 @@
   }
 }
 
-@media screen and (min-width: 1201px) {
+@media screen and (min-width: 1001px) {
   /* For large screens, all 4 projects on one line.
       Adjust margins so they aren't too small. */
   .header__img {
